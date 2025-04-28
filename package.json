@@ -1,0 +1,19 @@
+{
+  "name": "backend-challenge",
+  "version": "1.0.0",
+  "description": "Desafio Técnico Backend - B2Rise",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nadson-cn/backend-challenge.git"
+  },
+  "license": "ISC",
+  "author": "Nadson-cn",
+  "type": "commonjs",
+  "scripts": {
+    "playground": "npx ts-node"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
